@@ -1,0 +1,26 @@
+.c_pre {
+    left: 89% !important;
+    bottom: 5% !important;
+}
+
+.c_next {
+    right: 2% !important;
+    bottom: 5% !important;
+}
+
+.c_pre, .c_next {
+    top: 85%;
+    width: 5%;
+}
+
+.car_ind {
+    right: 80% !important;
+    bottom: 40% !important;
+    display: block;
+}
+
+.car_ind [data-bs-target] {
+    width: 15px !important;
+    height: 15px !important;
+    border-radius: 50%;
+}
